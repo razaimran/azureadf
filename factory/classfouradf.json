@@ -1,0 +1,9 @@
+{
+	"name": "classfouradf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45c014f5-f4e5-43f0-a8ae-83cb562cd51f",
+		"tenantId": "c9487304-c695-456e-917c-0c1b0290d93f"
+	}
+}
